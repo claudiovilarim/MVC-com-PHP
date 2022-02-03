@@ -1,0 +1,12 @@
+{
+    "name": "miniframework",
+    "require": {
+        "php": ">= 7.0"
+    },
+    "autjors": [
+        {
+            "name": "Claudio Vilarim",
+            "email": "claudio.v.lima2@gmail.com"
+        }
+    ]
+}
